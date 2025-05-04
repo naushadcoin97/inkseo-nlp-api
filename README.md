@@ -1,1 +1,1 @@
-# inkseo-nlp-api
+# linkseo-nlp-api
